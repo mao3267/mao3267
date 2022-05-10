@@ -4,5 +4,5 @@
 - 📫 How to reach me : siang.cs09@nycu.edu.tw
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mao-Siang)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mao-Siang&hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
 
