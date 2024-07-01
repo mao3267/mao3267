@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mao-Siang 
+- 👋 Hi, I’m Vincent Chen
 - 📫 How to reach me : chenvincent610@gmail.com
 - 🔮 Studying NLP, ML tech stacks
 
