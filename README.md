@@ -30,8 +30,9 @@
 </p>
 
 ------
-<h3 align="left">Languages and Tools:</h3>
-<table>
+
+<!-- <h3 align="left">Languages and Tools:</h3> -->
+<!-- <table> -->
 <!--     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=python,fastapi,flask,vite"/></td>
@@ -40,7 +41,7 @@
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=vue,react,html,css,sass,js,ts,figma"/></td>
     </tr> -->
-    <tr>
+<!--     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=mysql,sqlite,"/></td>
     </tr>
@@ -59,16 +60,16 @@
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,sublime"/></td>
-    </tr>
+    </tr> -->
 <!--     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=bash"/></td>
     </tr> -->
-    <tr>
+<!--     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
     </tr>
-</table>
+</table> -->
 
 ------
 <!-- Template from [RResabala2015](https://github.com/RResabala2015) -->
