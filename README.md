@@ -3,8 +3,8 @@
 ### Hello 🌎, I'm Vincent Chen
 
   - 🔭 I’m currently working on flyte and flytekit contributions.
-  - 🌱 I’m currently learning; Golang, Web Development, Distributed Systems
-  - 💬 Interested in NLP, ML systems, Multimodal Models
+  - 🌱 I’m currently learning; Machine Learning Infrastructure, Large Language Models (GPT), and Machine Learning (transformers, MLP, ngram)
+  - 💬 Interested in NLP, LLMs, large-scale ML systems, Multimodal Models
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +15,8 @@
 ------
 <h3 align="left">Activity:</h3>
 
-[![mao3267's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mao3267&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![mao3267's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mao3267&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
 <div align="center">
   <a href="https://github.com/mao3267">
